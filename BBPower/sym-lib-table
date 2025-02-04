@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "wch_mcu")(type "KiCad")(uri "${KIPRJMOD}/parts/wch_kicad_library-master/symbols/wch_mcu.kicad_sym")(options "")(descr ""))
   (lib (name "wch_mcu_peripheral")(type "KiCad")(uri "${KIPRJMOD}/parts/wch_kicad_library-master/symbols/wch_mcu_peripheral.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/parts/wch_kicad_library-master/symbols/New_Library.kicad_sym")(options "")(descr ""))
 )
