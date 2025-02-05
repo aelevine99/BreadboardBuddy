@@ -1,6 +1,26 @@
 {
   "board": {
-    "3dviewports": [],
+    "3dviewports": [
+      {
+        "name": "iso",
+        "ww": 1.0,
+        "wx": -17.237873077392578,
+        "wy": 23.198827743530273,
+        "wz": -53.048866271972656,
+        "xw": 0.0,
+        "xx": 0.7660446166992188,
+        "xy": -0.41317594051361084,
+        "xz": 0.4924035668373108,
+        "yw": 0.0,
+        "yx": 0.6427873969078064,
+        "yy": 0.49240419268608093,
+        "yz": -0.5868240594863892,
+        "zw": 0.0,
+        "zx": 0.0,
+        "zy": 0.7660441994667053,
+        "zz": 0.6427878737449646
+      }
+    ],
     "design_settings": {
       "defaults": {
         "apply_defaults_to_fp_fields": false,
@@ -51,7 +71,13 @@
           "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -171,7 +197,13 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [],
+      "track_widths": [
+        0.0,
+        0.1,
+        0.2,
+        0.25,
+        0.5
+      ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -198,7 +230,24 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.25,
+          "drill": 0.2
+        },
+        {
+          "diameter": 0.3,
+          "drill": 0.25
+        },
+        {
+          "diameter": 0.55,
+          "drill": 0.5
+        }
+      ],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
