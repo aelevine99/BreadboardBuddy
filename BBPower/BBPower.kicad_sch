@@ -5434,7 +5434,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "39743e98-319c-4673-a9f3-81c1b62e9143")
 		(property "Reference" "J3"
@@ -6376,7 +6376,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "78451c1c-8a8f-4af1-a72b-6ee6689e683e")
 		(property "Reference" "J2"
@@ -7318,7 +7318,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "bf365433-3817-4418-a1e5-1b3987342ff4")
 		(property "Reference" "J4"
@@ -7685,7 +7685,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_DIP_SPSTx03_Slide_9.78x9.8mm_W8.61mm_P2.54mm"
+		(property "Footprint" "Library:SW_DS04-254-1L-03BK"
 			(at 185.42 78.74 0)
 			(effects
 				(font
@@ -8066,7 +8066,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f0fe1385-f2e5-4d4b-ba94-0f007baf0620")
 		(property "Reference" "J5"
